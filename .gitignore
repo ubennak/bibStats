@@ -1,0 +1,8 @@
+# Ignore all autosave files
+*.asv
+
+# Mac OSX
+.DS_Store
+
+# Linux
+*~
